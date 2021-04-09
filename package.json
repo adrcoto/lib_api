@@ -1,0 +1,25 @@
+{
+  "name": "lib_api",
+  "version": "1.0.0",
+  "description": "Caphyon internship challenge API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrcoto/lib_api.git"
+  },
+  "keywords": [
+    "#time"
+  ],
+  "author": "Adrian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrcoto/lib_api/issues"
+  },
+  "homepage": "https://github.com/adrcoto/lib_api#readme",
+  "dependencies": {
+    "mongoose": "^5.12.3"
+  }
+}
