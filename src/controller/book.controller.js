@@ -9,12 +9,11 @@ const {returnError, filterData, isValidOperation} = require('./server.controller
  * @returns {Promise<void>}
  */
 module.exports.add = async (req, res) => {
-    console.log(req.body);
     try {
         const book = new Book(req.body);
         await book.save();
+
         res.status(201).send(book);
-        console.log(book);
     } catch (error) {
         returnError(res, 'validation-error', 400, error);
     }

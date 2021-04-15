@@ -4,7 +4,7 @@
   "description": "Caphyon internship challenge API",
   "main": "index.js",
   "scripts": {
-   "start:": "node src/server.js",
+    "start:": "node src/server.js",
     "dev": "nodemon src/server.js"
   },
   "repository": {
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/adrcoto/lib_api#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongoose": "^5.12.3"
   },
