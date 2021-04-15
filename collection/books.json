@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "607869934c58fc059cd8b096"
+  },
+  "description": "Node.js is the platform of choice for creating modern web services. This fast-paced book gets you up to speed on server-side programming with Node.js 8, as you develop real programs that are small, fast, low-profile, and useful.",
+  "category": "programming",
+  "rate": "like",
+  "stars": 5,
+  "title": "Node.js 8 the Right Way: Practical, Server-Side JavaScript That Scales 1st Edition",
+  "author": "Jim Wilson",
+  "createdAt": {
+    "$date": "2021-04-15T16:28:03.155Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-15T17:07:29.779Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607869e54c58fc059cd8b097"
+  },
+  "description": "Node.js Recipes is your one-stop reference for learning how to solve Node.js problems. Node.js is the de facto framework for building JavaScript-powered servers. You will first be introduced to this exciting technology and what it can do, then learn through comprehensive and easy-to-follow recipes that use a problem-solution approach. Node.js Recipes teaches you to fully utilize the Node.js API, and leverage existing modules to build truly exciting projects.",
+  "category": "programming",
+  "rate": "neutral",
+  "stars": 4,
+  "title": "Node.js Recipes",
+  "author": "Cory Gackenheimer",
+  "createdAt": {
+    "$date": "2021-04-15T16:29:25.108Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-15T17:07:57.875Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60786a634c58fc059cd8b098"
+  },
+  "description": "Java este un limbaj de programare orientat obiect deja consacrat. Datorita dinamismului sau, este utilizat in scrierea celor mai multe aplicatii distribuite, noile evolutii tehnologice validand folosirea sa pentru software-ul dispozitivelor portabile (telefoane mobile, agende electronice, palmtop-uri).",
+  "category": "programming",
+  "rate": "neutral",
+  "stars": 3,
+  "title": "Java de la 0 la expert",
+  "author": "Stefan Tanasa, Cristian Olaru, Stefan Andrei",
+  "createdAt": {
+    "$date": "2021-04-15T16:31:31.702Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-15T17:07:33.034Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60786aaf4c58fc059cd8b099"
+  },
+  "description": "This book has no description",
+  "category": "fantasy",
+  "rate": "like",
+  "stars": 5,
+  "title": "A Game of Thrones: A Song of Ice and Fire: Book One",
+  "author": "De George R. R. Martin",
+  "createdAt": {
+    "$date": "2021-04-15T16:32:47.661Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-15T17:07:35.380Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60786b564c58fc059cd8b09a"
+  },
+  "description": "This book has no description",
+  "category": "fantasy",
+  "rate": "dislike",
+  "stars": 3,
+  "title": "Harry Potter and the Goblet of Fire",
+  "author": "JK Rowling",
+  "createdAt": {
+    "$date": "2021-04-15T16:35:34.433Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-15T17:07:46.277Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607871624c58fc059cd8b09c"
+  },
+  "description": "”Eu nu vreau o slujbă. Când o să mă fac mare,vreau să fiu bogată.”\n\nTraiul în Artemis, primul și singurul oraș de pe Lună, implică privațiuni dacă nu te numeri printre turiștii bogați sau miliardarii excentrici, iar visul lui Jazz Bashara e să se îmbogățească. Doar că un simplu job de comisionară n-o să-i îndeplinească acest vis. Și nici micile ei acțiuni de contrabandă. Viața lui Jazz va căpăta o întorsătură teribilă atunci când planul ei de îmbogățire pune în pericol existența orașului și a cetățenilor lui.",
+  "category": "sf",
+  "rate": "dislike",
+  "stars": 2,
+  "title": "Artmeis",
+  "author": "Andy Weir",
+  "createdAt": {
+    "$date": "2021-04-15T17:01:22.880Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-15T17:07:45.497Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607872584c58fc059cd8b09d"
+  },
+  "description": "What is an imaginary number? Can two parallel lines ever meet? How can maths help us predict the future?\nCharting the development of maths around the world from Babylon to Bletchley Park, this book explores big questions like these and explains how the answers help us understand everything from patterns in nature to artificial intelligence.\nWritten in clear English, The Maths Book is packed with short, pithy explanations that cut through the jargon, step-by-step diagrams that untangle knotty theories, memorable quotes, and witty illustrations that play with our ideas about numbers.",
+  "category": "math",
+  "rate": "dislike",
+  "stars": 1,
+  "title": "The Maths Book : Big Ideas Simply Explained",
+  "author": "It doesn't mention",
+  "createdAt": {
+    "$date": "2021-04-15T17:05:28.454Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-15T17:07:42.524Z"
+  },
+  "__v": 0
+}]
